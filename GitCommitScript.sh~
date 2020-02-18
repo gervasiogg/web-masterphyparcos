@@ -1,3 +1,0 @@
-git add *
-git commit -m "Comentario sobre el commit"
-git push origin master
